@@ -1,0 +1,5 @@
+open 'https://www.saucedemo.com/v1/'
+enter name 'standard_user'
+enter password 'secret_sauce'
+click the button 'Login'
+check that have switched to url: 'https://www.saucedemo.com/v1/inventory.html'
